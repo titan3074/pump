@@ -1,6 +1,6 @@
 ## SSB SOLANA SNIPER BOT (Meme coin token sniping)
 
-![Banner](/images/matpevsfoolp.webp)     
+![Banner](/assets/matpevsfoolp.webp)     
 
 ---
 ![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)
@@ -55,7 +55,7 @@ First step:
 13. `STOP_LOSS=90` (in %)
 14. `BIRDEYE_APIKEY=` get here: https://docs.birdeye.so/docs/authentication-api-keys
 
-![](/images/enatar.webp)
+![](/assets/enatar.webp)
 
 
 ## Auto sell
@@ -92,7 +92,7 @@ You can update the list while script is running. Script will check for new value
 > it means that your wallet not have USDC/WSOL token account.
 > FIX: Go to [Jup.ag](https://jup.ag) and swap some SOL/USDC or SOL/WSOL.
 >
-> ![](/images/ciadepha.webp)
+> ![](/assets/ciadepha.webp)
 
 ## License
 This project is licensed under the [Apache License](/LICENSE)
